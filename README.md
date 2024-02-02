@@ -18,12 +18,10 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=csailly&count_private=true&show_icons=true&include_all_commits=true&theme=nord)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csailly&layout=compact&hide=lua&theme=nord)
 
-<img alt="Docker" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
-<img alt="Kubernetes" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"> 
+<img alt="Docker" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"><img alt="Kubernetes" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"> 
 <img alt="Google Cloud" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"> 
 
-<img alt="NodeJS" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
-<img alt="NestJS" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"> 
+<img alt="NodeJS" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"><img alt="NestJS" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"> 
 <img alt="Typescript" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
 <img alt="Javascript" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
 <img alt="Jest" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"> 
